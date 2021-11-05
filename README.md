@@ -1,0 +1,2 @@
+# termek
+tömb + tábla + variálás

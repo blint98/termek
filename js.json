@@ -1,0 +1,19 @@
+[{
+"Terméknév" : "Lajhár teafű áztató",
+"Leirás" : "lajhár lóg a poharad szélén",
+"Készlet" : 15,
+"Ár" : 2190
+},
+{
+    "Terméknév" : "Masszázst kérek csengő",
+    "Leirás" : "Csengetésre házhoz jön a masszőr",
+    "Készlet" : 25,
+    "Ár" : 2190  
+},
+{
+    "Terméknév" : "Óriás stressz oldó ENTER gomb - plüss",
+    "Leirás" : "Ezt nyugodtan ütögetheto,nem tesz kárt sem magában sem a környezetben !",
+    "Készlet" : 2,
+    "Ár" : 5990
+}
+]
